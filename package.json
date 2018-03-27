@@ -1,0 +1,8 @@
+{
+  "name": "useless-http-endpoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BlitzBanana/useless-http-endpoint",
+  "author": "Victor Rebiard--Crépin <victor.rebiardcrepin@gmail.com>",
+  "license": "MIT"
+}
